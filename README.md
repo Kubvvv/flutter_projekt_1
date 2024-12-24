@@ -13,12 +13,6 @@ A simple Flutter application to manage tasks. The app allows users to add tasks,
 
 ---
 
-## **Screenshots**
-
-> Include screenshots of the app in the To-Do and Done Tasks states here. If you’d like, I can guide you on how to take screenshots or mockups.
-
----
-
 ## **Technologies Used**
 
 - **Flutter**: A UI toolkit for building natively compiled apps.
